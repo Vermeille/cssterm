@@ -1,0 +1,19 @@
+.content-background-color {
+  background: black;
+}
+
+.color-primary-font-color {
+  color:white;  
+}
+
+.time, .avatar-image { display:none; }
+.role-tag { display:none; }
+.body {display:inline}
+.body::before {content:"$"}
+.message {
+  padding: 0;
+  min-height: 0;
+  font-family:Monospace;
+}
+.user { color: #9e9; }
+.user::after {content:"@localhost"}

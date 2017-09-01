@@ -1,0 +1,69 @@
+._4sp8 {
+  background: #222;
+}
+
+._nd_ ._hh7, ._hh7 {
+  background: rgba(255,255,255,0);
+  color: white;
+  font-family: Mono;
+}
+
+body {
+  color:white;
+}
+
+._41ud {
+  padding:0;
+  margin:0
+}
+
+._o46._3i_m ._3058 {
+  float: none;
+  display:inline;
+  padding:0;
+  max-width: 80ch;
+  word-wrap:break-word;
+}
+._o46._3i_m ._3058::before {
+  content: "vermeille@localhost $ ";
+  color: #9e9
+}
+
+._o46._29_7 ._3058 {
+  float: none;
+  display:inline;
+  padding:0;
+  max-width: 80ch;
+  word-wrap:break-word;
+}
+._o46._29_7 ._3058::before {
+  content: "other@localhost $ ";
+  color: #99e;
+}
+
+._aok {
+  display:inline;
+}
+#ucss-code-wrapper {
+  color: black;
+}
+._497p._2lpt,
+._ih3,
+._4ld- > img { display:none}
+._5rp7::before {
+  content:"vermeille@localhost $ ";
+  color: #9e9
+}
+._5rp7 {font-family: Mono;}
+
+._5rp7 div {display:inline;}
+
+div[id^="placeholder-"] { display:none;
+}
+._497p._2lpt,
+._1t_p,
+._3-8x {margin:0;padding:0;}
+._kmc {margin:0;padding:0;}
+
+
+
