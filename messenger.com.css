@@ -2,8 +2,8 @@
   background: #222;
 }
 
-._nd_ ._hh7, ._hh7 {
-  background: rgba(255,255,255,0);
+._hh7 {
+  background: rgba(255,255,255,0) !important;
   color: white;
   font-family: Mono;
 }
